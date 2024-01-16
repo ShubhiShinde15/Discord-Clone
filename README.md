@@ -1,0 +1,1 @@
+This project is a clone of Discord, a popular communication platform, created for educational and learning purposes. The aim is to replicate the key features and functionalities of Discord to gain insights into real-time communication and collaboration systems.
